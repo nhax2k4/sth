@@ -1,0 +1,8 @@
+qwen-vl-utils
+transformers
+gradio
+opencv-python
+numpy
+pillow
+torch
+torchvision
